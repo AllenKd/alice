@@ -19,7 +19,7 @@ Update [config.yaml](config/config.yaml) to set your investment schema.
 
 1. Enable google calendar API.
 2. Get credentials from your google account.
-3. Rename the credential json file to `credentials.jaon` then move to the root path of the project.
+3. Rename the credential json file to `credentials.json` then move to the root path of the project.
 4. Execute the program: ```python main.py```
 
 [Google api reference guide](https://developers.google.com/calendar/api/quickstart/python)

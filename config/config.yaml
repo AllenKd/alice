@@ -1,0 +1,16 @@
+- target: AAPL
+  from: 2023-01-26
+  to: 2023-06-09
+  shares: 100
+- target: NVDA
+  from: 2023-01-26
+  to: 2023-06-09
+  shares: 70
+- target: TSLA
+  from: 2023-01-26
+  to: 2023-06-09
+  shares: 50
+- target: VOO
+  from: 2023-01-26
+  to: 2023-06-09
+  shares: 30
